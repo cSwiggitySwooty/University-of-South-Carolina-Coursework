@@ -14,4 +14,6 @@ University-of-South-Carolina-Coursework
 |Data Structures and Algorithms	|CSCE 350	|Spring 2021	|
 |Operating Systems  |CSCE 311H  |Spring 2021  |
 |Building Secure Software |CSCE 548 |Spring 2021  |
-H - Honors Course
+|-------------------------------|---------------|---------------|
+
+A class ending in an "H" indicates an Honors course.
