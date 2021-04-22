@@ -2,7 +2,7 @@ University-of-South-Carolina-Coursework
 =======================================
 
 <details>
-<summary>Organized by Year</summary>
+<summary>Organized by Semester</summary>
 <br>
 
 |Class					|Course Number	|Semester Taken	|
