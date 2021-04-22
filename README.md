@@ -1,8 +1,9 @@
 University-of-South-Carolina-Coursework
 =======================================
 
-Organized by Year
------------------
+<details>
+<summary>Organized by Year</summary>
+<br>
 
 |Class					|Course Number	|Semester Taken	|
 |---------------------------------------|---------------|---------------|
@@ -20,11 +21,12 @@ Organized by Year
 |Building Secure Software 		|CSCE 548 	|Spring 2021  	|
 
 
-A class number ending in an "H" indicates an Honors course.
+</details>
 
 
-Organized by Course Number
---------------------------
+<details>
+<summary>Organized by Course Number</summary>
+<br>
 
 
 |Class					|Course Number	|Semester Taken	|
@@ -41,6 +43,9 @@ Organized by Course Number
 |Data Structures and Algorithms		|CSCE 350	|Spring 2021	|
 |Professional Issues in Computing 	|CSCE 390 	|Spring 2020  	|
 |Building Secure Software 		|CSCE 548 	|Spring 2021  	|
+
+
+</details>
 
 
 A class number ending in an "H" indicates an Honors course.
